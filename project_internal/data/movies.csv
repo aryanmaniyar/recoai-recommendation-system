@@ -1,0 +1,91 @@
+movieId,title,genres,year,language,industry,avg_rating,rating_count,tags
+1,Uri: The Surgical Strike,Action|War|Patriotic,2019,Hindi,Bollywood,4.8,4500,army surgical strike patriotic war india pakistan
+2,Dhurandhar,Action|Thriller|Patriotic,2024,Hindi,Bollywood,4.5,3200,action thriller patriotic mission spy
+3,War,Action|Thriller|Spy,2019,Hindi,Bollywood,4.3,4200,action spy thriller mission hrithik
+4,Pathaan,Action|Spy|Thriller,2023,Hindi,Bollywood,4.2,4800,spy action thriller shahrukh mission india
+5,Tiger Zinda Hai,Action|Spy|Patriotic,2017,Hindi,Bollywood,4.1,4000,spy action patriotic salman mission
+6,Tiger 3,Action|Spy|Thriller,2023,Hindi,Bollywood,3.9,3500,spy action thriller salman mission
+7,Raazi,Spy|Drama|Patriotic,2018,Hindi,Bollywood,4.6,3800,spy drama patriotic alia pakistan undercover
+8,Kesari,Action|War|Historical,2019,Hindi,Bollywood,4.4,3600,war historical action sikh akshay battle
+9,Shershah,War|Drama|Patriotic|Romance,2021,Hindi,Bollywood,4.7,4100,war army kargil patriotic romance sidharth
+10,Bard of Blood,Spy|Action|Thriller,2019,Hindi,Bollywood,4.0,2800,spy action thriller raw agent mission
+11,Baby,Action|Spy|Thriller,2015,Hindi,Bollywood,4.2,3400,spy action thriller akshay counter terrorism
+12,Holiday: A Soldier Is Never Off Duty,Action|Spy|Thriller,2014,Hindi,Bollywood,4.0,2900,action spy thriller soldier akshay mission
+13,Dangal,Drama|Sports|Biography,2016,Hindi,Bollywood,4.9,5000,wrestling sports biography aamir daughters inspiration
+14,3 Idiots,Comedy|Drama|Education,2009,Hindi,Bollywood,4.9,5500,comedy drama education college friends aamir
+15,Taare Zameen Par,Drama|Family|Education,2007,Hindi,Bollywood,4.8,4800,drama child education dyslexia family aamir
+16,PK,Comedy|Drama|SocialCommentary,2014,Hindi,Bollywood,4.7,4700,comedy drama religion social aamir alien
+17,Dil Dhadakne Do,Drama|Family|Comedy,2015,Hindi,Bollywood,4.2,3200,family drama comedy travel rich
+18,Kapoor and Sons,Drama|Family|Romance,2016,Hindi,Bollywood,4.3,3100,family drama romance emotional
+19,Andhadhun,Thriller|Mystery|Crime,2018,Hindi,Bollywood,4.8,4400,thriller mystery crime blind pianist
+20,Drishyam 2,Thriller|Mystery|Drama,2022,Hindi,Bollywood,4.6,4200,thriller mystery drama family crime ajay
+21,Article 15,Drama|Crime|SocialCommentary,2019,Hindi,Bollywood,4.5,3300,social drama crime caste discrimination ayushmann
+22,Swades,Drama|Patriotic|SocialCommentary,2004,Hindi,Bollywood,4.7,3800,patriotic drama social village development shahrukh
+23,Dilwale Dulhania Le Jayenge,Romance|Drama|Family,1995,Hindi,Bollywood,4.8,5200,romance love classic shahrukh kajol europe
+24,Kabhi Khushi Kabhie Gham,Drama|Family|Romance,2001,Hindi,Bollywood,4.5,4500,family drama romance rich poor srk hrithik
+25,Bajrangi Bhaijaan,Drama|Family|Comedy|Patriotic,2015,Hindi,Bollywood,4.7,4600,family drama comedy pakistan child salman
+26,Jab We Met,Romance|Comedy|Drama,2007,Hindi,Bollywood,4.6,4300,romance comedy drama travel kareena shahid
+27,Queen,Drama|Comedy|Romance,2014,Hindi,Bollywood,4.6,3900,drama comedy solo travel woman empowerment kangana
+28,Piku,Drama|Comedy|Family,2015,Hindi,Bollywood,4.4,3500,family comedy drama road trip deepika amitabh
+29,Golmaal Returns,Comedy|Action|Family,2008,Hindi,Bollywood,4.0,3200,comedy action family ajay rohit shetty
+30,Hera Pheri,Comedy|Crime|Drama,2000,Hindi,Bollywood,4.8,5000,comedy crime classic akshay suniel paresh
+31,Andaz Apna Apna,Comedy|Romance|Family,1994,Hindi,Bollywood,4.7,4400,comedy romance classic aamir salman
+32,Chup Chup Ke,Comedy|Drama|Romance,2006,Hindi,Bollywood,4.1,2900,comedy drama romance
+33,RRR,Action|Adventure|Historical,2022,Telugu,South,4.9,5500,action adventure historical freedom fighters rajamouli
+34,Baahubali: The Beginning,Action|Adventure|Fantasy,2015,Telugu,South,4.8,5200,action adventure fantasy historical rajamouli epic
+35,Baahubali 2: The Conclusion,Action|Adventure|Drama,2017,Telugu,South,4.9,5800,action adventure drama historical epic rajamouli
+36,KGF Chapter 1,Action|Crime|Drama,2018,Kannada,South,4.7,5000,action crime drama gold mines yash powerful
+37,KGF Chapter 2,Action|Crime|Drama,2022,Kannada,South,4.8,5500,action crime drama powerful yash sanjay dutt
+38,Pushpa: The Rise,Action|Crime|Drama,2021,Telugu,South,4.6,4800,action crime drama smuggling allu arjun red sandalwood
+39,Pushpa 2: The Rule,Action|Crime|Drama,2024,Telugu,South,4.8,5200,action crime drama smuggling allu arjun powerful
+40,Vikram,Action|Thriller|Crime,2022,Tamil,South,4.7,4600,action thriller crime kamal haasan lokesh
+41,Master,Action|Drama|Thriller,2021,Tamil,South,4.5,4200,action drama college vijay thalapathy
+42,Beast,Action|Thriller|Comedy,2022,Tamil,South,3.8,3200,action thriller comedy vijay thalapathy
+43,2.0,Action|SciFi|Fantasy,2018,Tamil,South,4.3,4000,scifi action fantasy robot rajinikanth akshay
+44,Jailer,Action|Drama|Crime,2023,Tamil,South,4.4,4100,action drama crime rajinikanth jailer father son
+45,Leo,Action|Thriller|Crime,2023,Tamil,South,4.3,3900,action thriller crime vijay thalapathy lokesh
+46,Salaar,Action|Crime|Drama,2023,Telugu,South,4.2,3800,action crime drama prabhas prashanth neel
+47,Kalki 2898 AD,SciFi|Action|Fantasy,2024,Telugu,South,4.5,4400,scifi action fantasy future mythology prabhas deepika
+48,Soorarai Pottru,Drama|Biography|Inspirational,2020,Tamil,South,4.7,4200,biography drama inspirational aviation suriya
+49,Super Deluxe,Drama|Thriller|Comedy,2019,Tamil,South,4.6,3700,drama thriller comedy vijay sethupathi
+50,Drishyam,Thriller|Mystery|Drama,2013,Malayalam,South,4.8,4500,thriller mystery drama family crime mohanlal
+51,Premam,Romance|Drama|Comedy,2015,Malayalam,South,4.6,3900,romance drama comedy college nivin pauly
+52,Lucifer,Action|Crime|Drama,2019,Malayalam,South,4.4,3800,action crime drama politics mohanlal prithviraj
+53,Avengers: Endgame,Action|SciFi|Adventure,2019,English,Hollywood,4.9,6000,superhero action scifi marvel avengers thanos
+54,Top Gun: Maverick,Action|Drama|Military,2022,English,Hollywood,4.8,5200,action military fighter jet drama tom cruise navy
+55,Mission Impossible,Action|Spy|Thriller,1996,English,Hollywood,4.5,4800,spy action thriller mission ethan hunt tom cruise
+56,John Wick,Action|Crime|Thriller,2014,English,Hollywood,4.7,5000,action crime assassin keanu reeves revenge
+57,The Dark Knight,Action|Crime|Drama,2008,English,Hollywood,4.9,6500,superhero batman joker crime drama christopher nolan
+58,Inception,SciFi|Thriller|Action,2010,English,Hollywood,4.9,6200,scifi dream thriller action nolan dicaprio mind
+59,Interstellar,SciFi|Drama|Adventure,2014,English,Hollywood,4.9,6100,scifi space adventure drama nolan time travel
+60,The Martian,SciFi|Drama|Adventure,2015,English,Hollywood,4.7,4900,scifi space survival mars matt damon nasa
+61,Gladiator,Action|Drama|Historical,2000,English,Hollywood,4.8,5100,action historical drama roman empire russell crowe
+62,300,Action|Historical|War,2006,English,Hollywood,4.6,4700,action war historical sparta battle gerard butler
+63,The Revenant,Adventure|Drama|Survival,2015,English,Hollywood,4.6,4500,survival adventure drama wilderness dicaprio revenge
+64,Shutter Island,Thriller|Mystery|Drama,2010,English,Hollywood,4.7,5000,thriller mystery psychological drama dicaprio island
+65,Se7en,Crime|Thriller|Mystery,1995,English,Hollywood,4.8,5300,crime thriller detective mystery brad pitt serial killer
+66,The Silence of the Lambs,Crime|Thriller|Horror,1991,English,Hollywood,4.8,5100,crime thriller horror hannibal serial killer fbi
+67,Prisoners,Thriller|Crime|Drama,2013,English,Hollywood,4.7,4700,thriller crime kidnapping drama mystery hugh jackman
+68,Gone Girl,Thriller|Mystery|Drama,2014,English,Hollywood,4.6,4600,thriller mystery marriage drama ben affleck fincher
+69,The Pursuit of Happyness,Drama|Biography|Inspirational,2006,English,Hollywood,4.8,5200,biography inspirational drama will smith father son
+70,Forrest Gump,Drama|Comedy|Romance,1994,English,Hollywood,4.9,6000,drama comedy romance classic tom hanks life story
+71,The Shawshank Redemption,Drama|Crime|Inspirational,1994,English,Hollywood,4.9,6800,drama crime prison friendship hope inspirational classic
+72,Schindler's List,Drama|Historical|War,1993,English,Hollywood,4.9,5900,historical war drama holocaust jews spielberg
+73,Good Will Hunting,Drama|Romance|Inspirational,1997,English,Hollywood,4.7,4900,drama inspirational genius math robin williams matt damon
+74,Gangs of Wasseypur,Crime|Drama|Action,2012,Hindi,Bollywood,4.7,4300,crime drama action gangster coal mafia anurag kashyap
+75,Zindagi Na Milegi Dobara,Drama|Comedy|Adventure,2011,Hindi,Bollywood,4.6,4100,adventure comedy drama friends travel spain hrithik
+76,Lagaan,Drama|Sports|Historical,2001,Hindi,Bollywood,4.8,4600,cricket sports historical drama british india aamir
+77,Rang De Basanti,Drama|Action|Patriotic,2006,Hindi,Bollywood,4.7,4400,patriotic drama youth revolution aamir india
+78,Mughal-E-Azam,Drama|Historical|Romance,1960,Hindi,Bollywood,4.8,3900,historical drama romance mughal classic dilip
+79,Gully Boy,Drama|Music|Inspirational,2019,Hindi,Bollywood,4.4,3700,music rap drama street inspirational ranveer
+80,Tumbbad,Horror|Fantasy|Mystery,2018,Hindi,Bollywood,4.7,3800,horror fantasy mystery greed folklore sohum
+81,Stree,Horror|Comedy|Mystery,2018,Hindi,Bollywood,4.5,4000,horror comedy ghost mystery small town rajkummar
+82,Bhediya,Horror|Comedy|Fantasy,2022,Hindi,Bollywood,4.1,3200,horror comedy fantasy werewolf varun dhawan
+83,OMG: Oh My God!,Comedy|Drama|SocialCommentary,2012,Hindi,Bollywood,4.5,3900,comedy drama religion social akshay paresh
+84,Tashan,Action|Comedy|Romance,2008,Hindi,Bollywood,3.2,1800,action comedy romance akshay kareena
+85,Mission Mangal,Drama|SciFi|Inspirational,2019,Hindi,Bollywood,4.2,3300,space science isro mars mission akshay women scientists
+86,Rocket Boys,Drama|Biography|SciFi,2022,Hindi,Bollywood,4.6,3500,biography science drama homi bhabha vikram sarabhai
+87,Bhaag Milkha Bhaag,Drama|Sports|Biography,2013,Hindi,Bollywood,4.5,4000,sports biography running athletics farhan akhtar partition
+88,MS Dhoni: The Untold Story,Drama|Sports|Biography,2016,Hindi,Bollywood,4.6,4300,cricket sports biography dhoni sushant
+89,83,Drama|Sports|Historical,2021,Hindi,Bollywood,4.4,3700,cricket world cup 1983 historical sports ranveer
+90,Kabir Singh,Drama|Romance|Action,2019,Hindi,Bollywood,4.1,4200,drama romance love shahid kapoor medical college
